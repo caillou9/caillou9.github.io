@@ -1,4 +1,8 @@
-body {}
+body {
+  background-color: #FF0000# /* Couleur terre */
+  color: #2e2e2e; /* Couleur texte */
+  font-family: 'Arial', sans serif; /* Police de caratctères */
+}
 h1{}
 p{}
 a{}
